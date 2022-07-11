@@ -1,7 +1,7 @@
 - ?Ÿ‘? Hi, I?€™m soyoung park
 - ?Ÿ‘€ I?€™m interested in data analysis
 - ?ŸŒ? I?€™m currently learning ML/DL .. data analysis and statistics
-- ?Ÿ’ï¸ I?€™m looking to collaborate on data-related works.
+- ?Ÿ’ï¸ I?€™m looking to collaborate on data-related work.
 - ?Ÿ“? How to reach me wls1452@naver.com
 
 <!---
